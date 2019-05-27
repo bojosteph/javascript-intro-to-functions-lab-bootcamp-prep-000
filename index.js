@@ -24,10 +24,7 @@ function sayHiToGrandma(string) {
 }
 }
 
-
-  console.log ().toUpperCase()
-}
-
+  
 function logWhisper(string) {
  console.log().toLowerCase()
 } 
